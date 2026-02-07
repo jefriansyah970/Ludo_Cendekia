@@ -1344,6 +1344,7 @@ self.C3_ExpressionFuncs = [
 		() => "bgm_button",
 		() => "https://docs.google.com/spreadsheets/d/1IqC_IE9sxwaZXRSXL8N7ZEjZ1JKveHsTcz70uul1JvI/edit?usp=sharing",
 		() => "NewWindow",
+		() => "https://drive.google.com/file/d/1sCDXBYmplxIga2ClHuNQNa3j7taNBg0f/view?usp=sharing",
 		() => "PopupSandi",
 		() => "qwerty",
 		() => 0.1,
